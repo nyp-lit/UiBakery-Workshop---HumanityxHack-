@@ -1,0 +1,11 @@
+/* Text starts purple, turns pink on hover */
+.first-textanim {
+color: #4A10A2; /* Initial text color: purple */
+transition: color 0.3s ease; /* Smoothly transition the text color over 0.3 seconds when it changes */
+cursor: pointer;  /* Change cursor to a pointer when hovering*/
+}
+  
+/* Hover effect */
+.first-textanim:hover {
+color: #E66EBB; * When hovered, change text color to pink */
+}
