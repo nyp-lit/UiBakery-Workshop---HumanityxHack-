@@ -4,6 +4,8 @@ https://docs.google.com/presentation/d/1u0tNUeT7uGPL5jt08YrUugOpct4YPTyaKeS8fWY1
 
 All the resources are as above 
 
+To see the guide on how to build the sample pages, click on the sample page 1.pdf & sample page 2.pdf
+
 # UI Bakery Website link: 
 https://uibakery.io/
 
