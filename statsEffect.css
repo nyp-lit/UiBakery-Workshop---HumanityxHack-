@@ -1,0 +1,20 @@
+/* Base Style for stats boxes or cards */
+.stats-effect {
+  border-radius: 12px;           /* Smooth rounded corners */
+  transition: all 0.3s ease;     /* Smooth transition for transform */
+  cursor: pointer;              /* Pointer cursor on hover */
+}
+
+/* Hover Effect */
+.stats-effect:hover {
+  transform: translateY(-10px) rotate(5deg); /* Lifts and tilts the card */
+  animation: wiggle 0.6s ease infinite;      /* Adds continuous wiggle motion */
+}
+
+/* Keyframes for wiggle animation */
+@keyframes wiggle {
+  0%, 100% { transform: translateY(-10px) rotate(5deg); }
+  25% { transform: translateY(-10px) rotate(3deg); }
+  50% { transform: translateY(-10px) rotate(7deg); }
+  75% { transform: translateY(-10px) rotate(3deg); }
+}
