@@ -1,0 +1,19 @@
+/* Base style for the gradient button */
+.button-color {
+  background: linear-gradient(135deg, #EC4899 0%, #8B5CF6 100%); /* Gradient: pink to purple */
+  color: white;                      /* Text color */
+  font-weight: 600;                  /* Bold text */
+  padding: 0px;                      /* No padding (adjust if needed) */
+  border-radius: 5px;                /* Slightly rounded corners */
+  border: none;                      /* No border */
+  box-shadow: 0 4px 6px rgba(236, 72, 153, 0.2); /* Soft pink glow */
+  cursor: pointer;                   /* Pointer cursor on hover */
+  transition: all 0.3s ease;         /* Smooth transition for hover effects */
+}
+
+/* Hover effect: darker gradient + lifted button */
+.button-color:hover {
+  background: linear-gradient(135deg, #DB2777 0%, #7C3AED 100%); /* Darker pink → darker purple */
+  transform: translateY(-2px);         /* Slight lift effect */
+  box-shadow: 0 6px 12px rgba(236, 72, 153, 0.3); /* Deeper glow on hover */
+}
