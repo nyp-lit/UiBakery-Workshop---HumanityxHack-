@@ -1,0 +1,4 @@
+ .container-color-blue {
+      background: linear-gradient(135deg, #fff9e6 0%, #e6f0ff 100%);
+      padding: 0px;  /* No inner spacing (adjust as needed) */
+    }
