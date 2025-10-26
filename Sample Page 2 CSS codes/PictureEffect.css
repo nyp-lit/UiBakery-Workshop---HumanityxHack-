@@ -1,0 +1,10 @@
+.picture-effect {
+border-radius: 12px;
+transition: all 0.3s ease;
+cursor: pointer;
+}
+
+.picture-effect:hover {
+transform: scale(1.03);
+box-shadow: 0 0 20px rgba(236, 72, 153, 0.5); 
+}
