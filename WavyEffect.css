@@ -1,0 +1,15 @@
+/* Apply a bounce animation to elements with the class 'wavy-effect' */
+.wavy-effect {
+  animation: bounce 2s infinite ease-in-out; /* Animation name: bounce, duration: 2s, repeats forever, easing: smooth in/out */
+  display: inline-block; /* Ensures the element behaves like a block while remaining inline */
+}
+
+/* Define the keyframes for the bounce animation */
+@keyframes bounce {
+  0%, 100% { 
+    transform: translateY(0); /* Start and end at original position */
+  }
+  50% { 
+    transform: translateY(-10px); /* Move up 10px halfway through animation to create the bounce effect */
+  }
+}
