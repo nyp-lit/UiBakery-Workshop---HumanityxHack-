@@ -1,0 +1,14 @@
+.cards-effect {
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275); /* Bouncy easing */
+  cursor: pointer;
+  border-radius: 12px;
+  }
+  
+/* Hover Effect */
+.cards-effect:hover {
+  transform: scale(1.06);
+  box-shadow: 0 12px 30px rgba(139, 92, 246, 0.2); /* Purple tinted shadow */
+  background-color: #faf5ff; /* Very light purple background on hover */
+  }
+  
+
