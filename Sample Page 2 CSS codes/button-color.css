@@ -1,0 +1,11 @@
+    .button-color {
+      background: linear-gradient(135deg, #EC4899 0%, #8B5CF6 100%);
+      color: white;
+      font-weight: 600;
+      padding: 0px;
+      border-radius: 5px;
+      border: none;
+      box-shadow: 0 4px 6px rgba(236, 72, 153, 0.2);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
