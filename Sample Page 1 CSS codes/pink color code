@@ -1,5 +1,6 @@
 color: #E66EBB;
 
 
-.pink-text {
+		.pink-text {
     	color: #E66EBB;
+    }
