@@ -4,7 +4,7 @@ https://docs.google.com/presentation/d/1u0tNUeT7uGPL5jt08YrUugOpct4YPTyaKeS8fWY1
 
 All the resources are as above 
 
-To Follow our live demostration , see the Main Sample Guide.pdf 
+To Follow our live demostration , download or see the Main Sample page guide.pdf / Main Page Guide Link(below)
 
 # UI Bakery Website Link: 
 https://uibakery.io/
@@ -15,5 +15,5 @@ https://docs.uibakery.io/
 # Main Page Guide Link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
 
-# [Optional] Page 2 Guide Link 
+# [Optional] Additional page 2 Guide Link 
 https://docs.google.com/document/d/1uaL0fyTfsP81ygklZMDWqlE09AKV9Wf-59b4gLir9ls/edit?usp=sharing
